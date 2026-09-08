@@ -1,8 +1,8 @@
-# Online Csharp ile Nesne Yonelimli Programlama Kursu 14 Eylül 2026
+# Online Csharp ile Nesne Yonelimli Programlama Kursu 16 Kasım 2026
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __14 Eylül 2026__ tarihinde başlayacaktır.
++ Kurs __16 Kasım 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Aykut Taşdelen__'dir.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __180__ saattir. 
